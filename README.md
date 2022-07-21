@@ -44,7 +44,6 @@
     <li><a href="#requisito25"> ➤ Requisito 25: Deletando dados por condicional </a></li>
     <li><a href="#requisito26"> ➤ Requisito 26: Deletando dados por condicional </a></li>
     <li><a href="#requisito27"> ➤ Requisito 27: Deletando todos os dados de uma tabela </a></li>
-    
     <li><a href="#créditos"> ➤ Créditos </a></li>
   </ol>
 </details>
