@@ -4,7 +4,9 @@
   <img src="gif/mysql.jpg" alt="MySQL Logo" width="40%">
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
 
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> :book: Tabela de Conteúdos</h2>
@@ -48,13 +50,17 @@
   </ol>
 </details>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
 
 <h2 id="sobre"> :pencil: Sobre o projeto </h2>
 
   <p align="center">Projeto desenvolvido durante a formação de BackEnd na Trybe com o intuito de consolidar o aprendizado de SQL e MySQL Workbench.</p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
 
 <h2 id="tecnologias"> :computer: Tecnologias utilizadas</h2>
 
@@ -65,7 +71,9 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="gif/mysql-logo.png" alt="MySQL Logo" width="22%"></a>
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
 
 <h2 id="descrição-do-projeto"> :page_facing_up: Descrição</h2>
 
@@ -83,7 +91,9 @@
   Foram desenvolvidos os arquivos contendo apenas o comando necessário para resolver o requisito pedido.<br />
 </details>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
 
 <h2 id="instruções"> :scroll: Instruções</h2>
 
@@ -102,7 +112,9 @@
   * Execute a query e aguarde alguns segundos,
   * Atualize a lista de dbs;
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
 
 <h2 id="requisitos"> :woman_technologist: Requisitos Realizados:</h2>
 
@@ -232,9 +244,11 @@
 </details>
 <br />
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
 
 <h2 id="créditos"> 💳 Créditos</h2>
 
 <p align="center">Banco de dados (Northwind) e docker compose (docker-compose.yml) fornecidos pela Trybe.</p>
-<p align="center"><a href="https://www.betrybe.com/" target="_blank"><img src="gif/trybe-logo.jpeg" alt="Docker Logo" width="15%"></a></p>
+<p align="center"><a href="https://www.betrybe.com/" target="_blank"><img src="gif/trybe-logo.jpeg" alt="Trybe Logo" width="15%"></a></p>
